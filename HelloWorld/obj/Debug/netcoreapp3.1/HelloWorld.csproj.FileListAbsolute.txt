@@ -1,0 +1,12 @@
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/gerritvanleeuwen/GVL/dotnet/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
